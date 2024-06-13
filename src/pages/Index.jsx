@@ -58,7 +58,7 @@ const Index = () => {
     <VStack spacing={4} width="100%" minHeight="100vh" justifyContent="space-between">
       <Container centerContent maxW="container.md" py={8}>
         <VStack spacing={4} width="100%">
-          <Heading mb={6}>To-Do App</Heading>
+          <Heading mb={6}>Todoish</Heading>
           <VStack spacing={4} align="stretch">
             <Input
               placeholder="Add a new task"
@@ -104,7 +104,7 @@ const Index = () => {
       </Container>
       <VStack as="footer" spacing={4} width="100%" pt={8}>
         <Container centerContent>
-          <Text fontSize="lg">© 2024 To-Do App, Inc. All rights reserved.</Text>
+          <Text fontSize="lg">© 2024 Todoish, Inc. All rights reserved.</Text>
         </Container>
       </VStack>
     </VStack>
