@@ -11,6 +11,7 @@ import {
   Tag,
   TagLabel,
   TagCloseButton,
+  HStack,
   useToast
 } from '@chakra-ui/react';
 import { FaPlus } from 'react-icons/fa';
