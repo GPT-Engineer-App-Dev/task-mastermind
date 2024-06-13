@@ -104,7 +104,7 @@ const Index = () => {
       </Container>
       <VStack as="footer" spacing={4} width="100%" pt={8}>
         <Container centerContent>
-          <Text fontSize="sm">© 2024 To-Do App, Inc. All rights reserved.</Text>
+          <Text fontSize="lg">© 2024 To-Do App, Inc. All rights reserved.</Text>
         </Container>
       </VStack>
     </VStack>
